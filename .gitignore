@@ -46,3 +46,6 @@ wheels/
 !/datasets/*.*
 /projects/*/datasets
 /models
+demo/.DS_Store
+.DS_Store
+demo/video.mp4
